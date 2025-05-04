@@ -64,3 +64,13 @@ Ouvrez l’un des projets (`.pro`) dans Qt Creator, compilez-le, puis exécutez.
 - Ce projet est destiné à être déployé dans plusieurs établissements. Chaque installation aura sa propre base de données Oracle.
 - Il n’y a aucune interconnexion entre les établissements.
 - Toute la logique est fondée sur la POO pour une bonne extensibilité et maintenabilité.
+
+---
+
+## Images du logiciel
+
+![image 1](ima1.jpg)
+
+![image 2](ima2.jpg)
+
+![image 3](ima3.jpg)
