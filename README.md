@@ -74,3 +74,10 @@ Ouvrez l’un des projets (`.pro`) dans Qt Creator, compilez-le, puis exécutez.
 ![image 2](ima2.jpg)
 
 ![image 3](ima3.jpg)
+
+## 🎨 Couleurs & Design
+
+Bon… on va pas se mentir 😅 : le choix des couleurs laisse clairement à désirer !  
+Disons que j’ai voulu tester mes limites en design… et j’ai bien trouvé où elles s'arrêtent 😆.
+
+Promis, dans la prochaine version, mes yeux aussi auront droit au respect !
