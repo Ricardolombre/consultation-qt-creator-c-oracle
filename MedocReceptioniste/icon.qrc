@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ICON/alert.svg</file>
+        <file>ICON/calendar.svg</file>
+        <file>ICON/calendar-number-outline.svg</file>
+        <file>ICON/cash-outline.svg</file>
+        <file>ICON/menu.svg</file>
+        <file>ICON/users.svg</file>
+        <file>ICON/pngtree-medical-logo-vector-png-image_6713322.png</file>
+        <file>ICON/close-line.svg</file>
+        <file>ICON/delete-bin-6-line.svg</file>
+        <file>ICON/information-2-fill.svg</file>
+        <file>ICON/pen-tool.svg</file>
+        <file>ICON/plus.svg</file>
+        <file>ICON/user-plus.svg</file>
+        <file>ICON/Vector_down_arrow_link.svg.png</file>
+        <file>ICON/icon.png</file>
+    </qresource>
+</RCC>
